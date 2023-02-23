@@ -5,6 +5,7 @@ export const StatisticsBox = styled.div`
  flex-direction: column;
  align-items: flex-start;
  margin-left: 500px;
+ gap: 20px;
  
 `
 export const Text = styled.p`
